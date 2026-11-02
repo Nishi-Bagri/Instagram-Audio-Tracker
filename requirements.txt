@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+playwright
+psycopg[binary]
+SQLAlchemy
+python-dotenv
+gspread
+google-auth

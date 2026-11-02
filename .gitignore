@@ -1,0 +1,16 @@
+
+.env
+instagram-audio-tracker-*.json
+*service-account*.json
+*credentials*.json
+
+
+.venv/
+venv/
+
+
+browser_profile/
+
+
+__pycache__/
+*.py[cod]
